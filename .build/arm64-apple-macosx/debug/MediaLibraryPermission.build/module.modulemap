@@ -1,0 +1,4 @@
+module MediaLibraryPermission {
+    header "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MediaLibraryPermission.build/MediaLibraryPermission-Swift.h"
+    requires objc
+}

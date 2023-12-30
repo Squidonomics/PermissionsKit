@@ -1,0 +1,4 @@
+module SpeechRecognizerPermission {
+    header "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SpeechRecognizerPermission.build/SpeechRecognizerPermission-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module MotionPermission {
+    header "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MotionPermission.build/MotionPermission-Swift.h"
+    requires objc
+}

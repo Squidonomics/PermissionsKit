@@ -1,0 +1,4 @@
+module PhotoLibraryPermission {
+    header "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PhotoLibraryPermission.build/PhotoLibraryPermission-Swift.h"
+    requires objc
+}

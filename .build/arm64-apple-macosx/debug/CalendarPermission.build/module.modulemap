@@ -1,0 +1,4 @@
+module CalendarPermission {
+    header "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CalendarPermission.build/CalendarPermission-Swift.h"
+    requires objc
+}

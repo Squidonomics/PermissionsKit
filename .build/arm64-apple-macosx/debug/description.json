@@ -1,0 +1,2551 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+    "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/ar.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Resources/Localization/ar.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/ar.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/de.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Resources/Localization/de.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/de.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/en.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Resources/Localization/en.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/en.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/es.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Resources/Localization/es.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/es.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/fa.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Resources/Localization/fa.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/fa.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/fr.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Resources/Localization/fr.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/fr.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/Info.plist" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.build/Info.plist"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/Info.plist"
+        }
+      ]
+    },
+    "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/it.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Resources/Localization/it.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/it.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/nl.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Resources/Localization/nl.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/nl.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/pl.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Resources/Localization/pl.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/pl.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/pt.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Resources/Localization/pt.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/pt.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/ru.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Resources/Localization/ru.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/ru.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/uk.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Resources/Localization/uk.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/uk.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/zh_hans.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Resources/Localization/zh_Hans.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/zh_hans.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/zh-hant.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Resources/Localization/zh-Hant.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit_PermissionsKit.bundle/zh-hant.lproj/Localizable.strings"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.BluetoothPermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/BluetoothPermission/BluetoothHandler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/BluetoothPermission/BluetoothPermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "BluetoothPermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/BluetoothPermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/BluetoothPermission.build/BluetoothHandler.swift.o",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/BluetoothPermission.build/BluetoothPermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/BluetoothPermission.build/BluetoothPermission-Swift.h",
+        "-DPERMISSIONSKIT_BLUETOOTH",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/BluetoothPermission.build/BluetoothHandler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/BluetoothPermission.build/BluetoothPermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/BluetoothPermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/BluetoothPermission/BluetoothHandler.swift",
+        "/Users/bnh/git/PermissionsKit/Sources/BluetoothPermission/BluetoothPermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/BluetoothPermission.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.CalendarPermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/CalendarPermission/CalendarPermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "CalendarPermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CalendarPermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CalendarPermission.build/CalendarPermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CalendarPermission.build/CalendarPermission-Swift.h",
+        "-DPERMISSIONSKIT_CALENDAR",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CalendarPermission.build/CalendarPermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CalendarPermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/CalendarPermission/CalendarPermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CalendarPermission.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.CameraPermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/CameraPermission/CameraPermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "CameraPermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CameraPermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CameraPermission.build/CameraPermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CameraPermission.build/CameraPermission-Swift.h",
+        "-DPERMISSIONSKIT_CAMERA",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CameraPermission.build/CameraPermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CameraPermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/CameraPermission/CameraPermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CameraPermission.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.ContactsPermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/ContactsPermission/ContactsPermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "ContactsPermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ContactsPermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ContactsPermission.build/ContactsPermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ContactsPermission.build/ContactsPermission-Swift.h",
+        "-DPERMISSIONSKIT_CONTACTS",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ContactsPermission.build/ContactsPermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ContactsPermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/ContactsPermission/ContactsPermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ContactsPermission.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.FaceIDPermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/FaceIDPermission/FaceIDPermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "FaceIDPermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/FaceIDPermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/FaceIDPermission.build/FaceIDPermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/FaceIDPermission.build/FaceIDPermission-Swift.h",
+        "-DPERMISSIONSKIT_FACEID",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/FaceIDPermission.build/FaceIDPermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/FaceIDPermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/FaceIDPermission/FaceIDPermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/FaceIDPermission.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.HealthPermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/HealthPermission/HealthPermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "HealthPermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/HealthPermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/HealthPermission.build/HealthPermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/HealthPermission.build/HealthPermission-Swift.h",
+        "-DPERMISSIONSKIT_HEALTH",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/HealthPermission.build/HealthPermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/HealthPermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/HealthPermission/HealthPermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/HealthPermission.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.LocationPermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/LocationPermission/Handlers/LocationAlwaysHandler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/LocationPermission/Handlers/LocationWhenInUseHandler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/LocationPermission/LocationAccuracy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/LocationPermission/LocationPermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "LocationPermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/LocationPermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/LocationPermission.build/Handlers/LocationAlwaysHandler.swift.o",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/LocationPermission.build/Handlers/LocationWhenInUseHandler.swift.o",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/LocationPermission.build/LocationAccuracy.swift.o",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/LocationPermission.build/LocationPermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/LocationPermission.build/LocationPermission-Swift.h",
+        "-DPERMISSIONSKIT_LOCATION",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/LocationPermission.build/Handlers/LocationAlwaysHandler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/LocationPermission.build/Handlers/LocationWhenInUseHandler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/LocationPermission.build/LocationAccuracy.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/LocationPermission.build/LocationPermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/LocationPermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/LocationPermission/Handlers/LocationAlwaysHandler.swift",
+        "/Users/bnh/git/PermissionsKit/Sources/LocationPermission/Handlers/LocationWhenInUseHandler.swift",
+        "/Users/bnh/git/PermissionsKit/Sources/LocationPermission/LocationAccuracy.swift",
+        "/Users/bnh/git/PermissionsKit/Sources/LocationPermission/LocationPermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/LocationPermission.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.MediaLibraryPermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/MediaLibraryPermission/MediaLibraryPermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "MediaLibraryPermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MediaLibraryPermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MediaLibraryPermission.build/MediaLibraryPermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MediaLibraryPermission.build/MediaLibraryPermission-Swift.h",
+        "-DPERMISSIONSKIT_MEDIA_LIBRARY",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MediaLibraryPermission.build/MediaLibraryPermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MediaLibraryPermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/MediaLibraryPermission/MediaLibraryPermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MediaLibraryPermission.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.MicrophonePermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/MicrophonePermission/MicrophonePermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "MicrophonePermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MicrophonePermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MicrophonePermission.build/MicrophonePermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MicrophonePermission.build/MicrophonePermission-Swift.h",
+        "-DPERMISSIONSKIT_MICROPHONE",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MicrophonePermission.build/MicrophonePermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MicrophonePermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/MicrophonePermission/MicrophonePermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MicrophonePermission.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.MotionPermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/MotionPermission/MotionPermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "MotionPermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MotionPermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MotionPermission.build/MotionPermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MotionPermission.build/MotionPermission-Swift.h",
+        "-DPERMISSIONSKIT_MOTION",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MotionPermission.build/MotionPermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MotionPermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/MotionPermission/MotionPermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MotionPermission.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.NotificationPermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/NotificationPermission/NotificationPermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "NotificationPermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/NotificationPermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/NotificationPermission.build/NotificationPermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/NotificationPermission.build/NotificationPermission-Swift.h",
+        "-DPERMISSIONSKIT_NOTIFICATION",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/NotificationPermission.build/NotificationPermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/NotificationPermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/NotificationPermission/NotificationPermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/NotificationPermission.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.PermissionsKit-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Data/Text.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Permission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<PermissionsKit-debug.module-resources>"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PermissionsKit",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.build/Data/Text.swift.o",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.build/Permission.swift.o",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.build/PermissionsKit-Swift.h",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.build/Data/Text.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.build/Permission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Data/Text.swift",
+        "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Permission.swift",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.PhotoLibraryPermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/PhotoLibraryPermission/PhotoLibraryPermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PhotoLibraryPermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PhotoLibraryPermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PhotoLibraryPermission.build/PhotoLibraryPermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PhotoLibraryPermission.build/PhotoLibraryPermission-Swift.h",
+        "-DPERMISSIONSKIT_PHOTOLIBRARY",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PhotoLibraryPermission.build/PhotoLibraryPermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PhotoLibraryPermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/PhotoLibraryPermission/PhotoLibraryPermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PhotoLibraryPermission.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.RemindersPermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/RemindersPermission/RemindersPermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "RemindersPermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/RemindersPermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/RemindersPermission.build/RemindersPermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/RemindersPermission.build/RemindersPermission-Swift.h",
+        "-DPERMISSIONSKIT_REMINDERS",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/RemindersPermission.build/RemindersPermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/RemindersPermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/RemindersPermission/RemindersPermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/RemindersPermission.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.SiriPermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/SiriPermission/SiriPermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SiriPermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SiriPermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SiriPermission.build/SiriPermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SiriPermission.build/SiriPermission-Swift.h",
+        "-DPERMISSIONSKIT_SIRI",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SiriPermission.build/SiriPermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SiriPermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/SiriPermission/SiriPermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SiriPermission.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.SpeechRecognizerPermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/SpeechRecognizerPermission/SpeechPermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SpeechRecognizerPermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SpeechRecognizerPermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SpeechRecognizerPermission.build/SpeechPermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SpeechRecognizerPermission.build/SpeechRecognizerPermission-Swift.h",
+        "-DPERMISSIONSKIT_SPEECH",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SpeechRecognizerPermission.build/SpeechPermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SpeechRecognizerPermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/SpeechRecognizerPermission/SpeechPermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SpeechRecognizerPermission.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.TrackingPermission-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/Sources/TrackingPermission/TrackingPermission.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "TrackingPermission",
+      "moduleOutputPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/TrackingPermission.swiftmodule",
+      "objects" : [
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/TrackingPermission.build/TrackingPermission.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/TrackingPermission.build/TrackingPermission-Swift.h",
+        "-DPERMISSIONSKIT_TRACKING",
+        "-DPERMISSIONSKIT_SPM",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/TrackingPermission.build/TrackingPermission.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/TrackingPermission.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/bnh/git/PermissionsKit/Sources/TrackingPermission/TrackingPermission.swift"
+      ],
+      "tempsPath" : "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/TrackingPermission.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "BluetoothPermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "BluetoothPermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/BluetoothPermission/BluetoothHandler.swift",
+      "/Users/bnh/git/PermissionsKit/Sources/BluetoothPermission/BluetoothPermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/BluetoothPermission.build/BluetoothPermission-Swift.h",
+      "-DPERMISSIONSKIT_BLUETOOTH",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "CalendarPermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "CalendarPermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/CalendarPermission/CalendarPermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CalendarPermission.build/CalendarPermission-Swift.h",
+      "-DPERMISSIONSKIT_CALENDAR",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "CameraPermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "CameraPermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/CameraPermission/CameraPermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CameraPermission.build/CameraPermission-Swift.h",
+      "-DPERMISSIONSKIT_CAMERA",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "ContactsPermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "ContactsPermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/ContactsPermission/ContactsPermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ContactsPermission.build/ContactsPermission-Swift.h",
+      "-DPERMISSIONSKIT_CONTACTS",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "FaceIDPermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "FaceIDPermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/FaceIDPermission/FaceIDPermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/FaceIDPermission.build/FaceIDPermission-Swift.h",
+      "-DPERMISSIONSKIT_FACEID",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "HealthPermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "HealthPermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/HealthPermission/HealthPermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/HealthPermission.build/HealthPermission-Swift.h",
+      "-DPERMISSIONSKIT_HEALTH",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "LocationPermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "LocationPermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/LocationPermission/Handlers/LocationAlwaysHandler.swift",
+      "/Users/bnh/git/PermissionsKit/Sources/LocationPermission/Handlers/LocationWhenInUseHandler.swift",
+      "/Users/bnh/git/PermissionsKit/Sources/LocationPermission/LocationAccuracy.swift",
+      "/Users/bnh/git/PermissionsKit/Sources/LocationPermission/LocationPermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/LocationPermission.build/LocationPermission-Swift.h",
+      "-DPERMISSIONSKIT_LOCATION",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "MediaLibraryPermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "MediaLibraryPermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/MediaLibraryPermission/MediaLibraryPermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MediaLibraryPermission.build/MediaLibraryPermission-Swift.h",
+      "-DPERMISSIONSKIT_MEDIA_LIBRARY",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "MicrophonePermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "MicrophonePermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/MicrophonePermission/MicrophonePermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MicrophonePermission.build/MicrophonePermission-Swift.h",
+      "-DPERMISSIONSKIT_MICROPHONE",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "MotionPermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "MotionPermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/MotionPermission/MotionPermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MotionPermission.build/MotionPermission-Swift.h",
+      "-DPERMISSIONSKIT_MOTION",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "NotificationPermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "NotificationPermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/NotificationPermission/NotificationPermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/NotificationPermission.build/NotificationPermission-Swift.h",
+      "-DPERMISSIONSKIT_NOTIFICATION",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "PermissionsKit" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "PermissionsKit",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Data/Text.swift",
+      "/Users/bnh/git/PermissionsKit/Sources/PermissionsKit/Permission.swift",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.build/PermissionsKit-Swift.h",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "PhotoLibraryPermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "PhotoLibraryPermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/PhotoLibraryPermission/PhotoLibraryPermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PhotoLibraryPermission.build/PhotoLibraryPermission-Swift.h",
+      "-DPERMISSIONSKIT_PHOTOLIBRARY",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "RemindersPermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "RemindersPermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/RemindersPermission/RemindersPermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/RemindersPermission.build/RemindersPermission-Swift.h",
+      "-DPERMISSIONSKIT_REMINDERS",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SiriPermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SiriPermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/SiriPermission/SiriPermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SiriPermission.build/SiriPermission-Swift.h",
+      "-DPERMISSIONSKIT_SIRI",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SpeechRecognizerPermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SpeechRecognizerPermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/SpeechRecognizerPermission/SpeechPermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SpeechRecognizerPermission.build/SpeechRecognizerPermission-Swift.h",
+      "-DPERMISSIONSKIT_SPEECH",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "TrackingPermission" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "TrackingPermission",
+      "-incremental",
+      "-c",
+      "/Users/bnh/git/PermissionsKit/Sources/TrackingPermission/TrackingPermission.swift",
+      "-I",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/TrackingPermission.build/TrackingPermission-Swift.h",
+      "-DPERMISSIONSKIT_TRACKING",
+      "-DPERMISSIONSKIT_SPM",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "BluetoothPermission" : [
+      "PermissionsKit"
+    ],
+    "CalendarPermission" : [
+      "PermissionsKit"
+    ],
+    "CameraPermission" : [
+      "PermissionsKit"
+    ],
+    "ContactsPermission" : [
+      "PermissionsKit"
+    ],
+    "FaceIDPermission" : [
+      "PermissionsKit"
+    ],
+    "HealthPermission" : [
+      "PermissionsKit"
+    ],
+    "LocationPermission" : [
+      "PermissionsKit"
+    ],
+    "MediaLibraryPermission" : [
+      "PermissionsKit"
+    ],
+    "MicrophonePermission" : [
+      "PermissionsKit"
+    ],
+    "MotionPermission" : [
+      "PermissionsKit"
+    ],
+    "NotificationPermission" : [
+      "PermissionsKit"
+    ],
+    "PermissionsKit" : [
+
+    ],
+    "PhotoLibraryPermission" : [
+      "PermissionsKit"
+    ],
+    "RemindersPermission" : [
+      "PermissionsKit"
+    ],
+    "SiriPermission" : [
+      "PermissionsKit"
+    ],
+    "SpeechRecognizerPermission" : [
+      "PermissionsKit"
+    ],
+    "TrackingPermission" : [
+      "PermissionsKit"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  }
+}

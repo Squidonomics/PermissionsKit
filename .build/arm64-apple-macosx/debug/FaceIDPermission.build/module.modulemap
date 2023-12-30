@@ -1,0 +1,4 @@
+module FaceIDPermission {
+    header "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/FaceIDPermission.build/FaceIDPermission-Swift.h"
+    requires objc
+}

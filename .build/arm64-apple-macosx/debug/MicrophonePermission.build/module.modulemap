@@ -1,0 +1,4 @@
+module MicrophonePermission {
+    header "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/MicrophonePermission.build/MicrophonePermission-Swift.h"
+    requires objc
+}

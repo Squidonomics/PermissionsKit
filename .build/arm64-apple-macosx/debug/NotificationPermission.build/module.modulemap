@@ -1,0 +1,4 @@
+module NotificationPermission {
+    header "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/NotificationPermission.build/NotificationPermission-Swift.h"
+    requires objc
+}

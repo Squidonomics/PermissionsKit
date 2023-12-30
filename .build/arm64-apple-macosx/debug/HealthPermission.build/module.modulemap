@@ -1,0 +1,4 @@
+module HealthPermission {
+    header "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/HealthPermission.build/HealthPermission-Swift.h"
+    requires objc
+}

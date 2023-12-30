@@ -1,0 +1,4 @@
+module RemindersPermission {
+    header "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/RemindersPermission.build/RemindersPermission-Swift.h"
+    requires objc
+}

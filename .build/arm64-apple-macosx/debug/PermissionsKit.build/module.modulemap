@@ -1,0 +1,4 @@
+module PermissionsKit {
+    header "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/PermissionsKit.build/PermissionsKit-Swift.h"
+    requires objc
+}

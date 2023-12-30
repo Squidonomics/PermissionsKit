@@ -1,0 +1,4 @@
+module LocationPermission {
+    header "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/LocationPermission.build/LocationPermission-Swift.h"
+    requires objc
+}

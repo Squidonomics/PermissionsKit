@@ -1,0 +1,4 @@
+module SiriPermission {
+    header "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/SiriPermission.build/SiriPermission-Swift.h"
+    requires objc
+}

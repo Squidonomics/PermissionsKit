@@ -1,0 +1,4 @@
+module CameraPermission {
+    header "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/CameraPermission.build/CameraPermission-Swift.h"
+    requires objc
+}

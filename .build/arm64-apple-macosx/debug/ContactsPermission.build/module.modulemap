@@ -1,0 +1,4 @@
+module ContactsPermission {
+    header "/Users/bnh/git/PermissionsKit/.build/arm64-apple-macosx/debug/ContactsPermission.build/ContactsPermission-Swift.h"
+    requires objc
+}
